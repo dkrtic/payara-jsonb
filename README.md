@@ -6,6 +6,6 @@ Minimal example to demonstrate the problem with JsonbTypeAdapter.
 
 mvn clean package
 
-##Run
+## Run
 
 Copy war to Payara autodeploy folder.
